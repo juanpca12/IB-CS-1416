@@ -37,7 +37,7 @@ Check the college intra-net.
 Send an email to Sunu.
 
 * ##### I don't have the textbook, where can I get one?
-Check the library. If you need a digital copy get in touch with some CS existing student.
+Check the library. If you need a digital copy get in touch with some existing CS student.
 
 * ##### Which programming language will we be using?
 Mostly Python.
