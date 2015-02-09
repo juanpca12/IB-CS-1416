@@ -15,6 +15,6 @@ t<sub>n</sub> = t<sub>n-1</sub> + t<sub>n-2</sub> and t<sub>1</sub> =  1, t<sub>
 2. Produce a plot and show that the ratio (r) tends to the Golden ratio as n becomes larger (plot n-vs-r.)
 
 Here is a sample plot:
-![n-vs-r plot](images/problem_0001.png)
+![n-vs-r plot](https://raw.githubusercontent.com/abhikpal/IB-CS-1416/master/images/prob_0001.png)
 
 [More on the Golden Ratio (Wikipedia)](http://en.wikipedia.org/wiki/Golden_ratio)
