@@ -17,18 +17,24 @@ Fork this repo, and pull a request if:
 
 ## FAQs
 
-### Umm... Do you have CS at MUWCI ?
+#### Umm... Do you have CS at MUWCI ?
 Yes.
 
-### Sounds fun! How can I join?
+#### Sounds fun! How can I join?
 Contact me (```(abhikp@muwci.net)[abhikp@muwci.net]```) or Pietro (```(pietrog@muwci.net)[pietrog@muwci.net]```)
 
-### When and Where does it happen?
+#### When and Where does it happen?
 * Day 4 double blocks (depending on Sunu's presence on campus), somewhere in the science block.
 * Wednesday, Thursday after school (2:30 PM to 3:30 PM), Big Lab.
 
-### What's for snacks/lunch/dinner/breakfast?
+#### What's for snacks/lunch/dinner/breakfast?
 Check the college intra-net.
 
-### I lost my __________, should I send a mass email?
+#### I lost my __________, should I send a mass email?
 **No**.
+
+#### I'm not on ManageBac, what should I do?
+Send an email to Sunu.
+
+#### I don't have the textbook, where can I get one?
+Check the library. If you need a digital copy get in touch with some CS existing students.
