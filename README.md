@@ -43,6 +43,7 @@ Check the library. If you need a digital copy get in touch with some CS existing
 Mostly Python.
 
 * ##### I'm having trouble installing Python and/or setting up my environment...
+```
 1. Use Google.
 
 2. If (1) fails:
@@ -58,3 +59,4 @@ Mostly Python.
         b. Go to (3).
 
 3. Have fun!
+```
