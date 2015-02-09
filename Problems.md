@@ -31,8 +31,8 @@ More on [The Golden Ratio](http://en.wikipedia.org/wiki/Golden_ratio) and [The F
 
 ## 4. File I/O
 
-1. Write an algorithm to input a numbers stored inside a text file (```file_1.txt```), make them into a list and sort them. The user should interact with the program in the following manner:```shell
+1. Write an algorithm to input a numbers stored inside a text file (```file_1.txt```), make them into a list and sort them. The user should interact with the program in the following manner: <br/> ```shell
 $> mu_sort file_1.txt```
-2. Write an algorithm (```mu_sort```) to read data stored inside a text file (```file_1.txt```), sort it and output the sorted numbers to another file (```file_2.txt```). The user should interact with the program in the following manner:```shell
+2. Write an algorithm (```mu_sort```) to read data stored inside a text file (```file_1.txt```), sort it and output the sorted numbers to another file (```file_2.txt```). The user should interact with the program in the following manner: <br/> ```shell
 $> mu_sort file_1.txt file_2.txt```
 3. Implement the two algorithms in Python.
