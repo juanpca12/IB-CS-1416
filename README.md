@@ -21,7 +21,7 @@ Fork this repo, and pull a request if:
 Yes.
 
 #### Sounds fun! How can I join?
-Contact me (```(abhikp@muwci.net)[abhikp@muwci.net]```) or Pietro (```(pietrog@muwci.net)[pietrog@muwci.net]```)
+Contact me ((abhikp@muwci.net)[abhikp@muwci.net]) or Pietro ((pietrog@muwci.net)[pietrog@muwci.net])
 
 #### When and Where does it happen?
 * Day 4 double blocks (depending on Sunu's presence on campus), somewhere in the science block.
